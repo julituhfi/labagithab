@@ -1,2 +1,4 @@
 echo "secret.txt" > .gitignore
 echo "*.exe" >> .gitignore
+
+echo "// Добавлено новое свойство" >> main.cpp

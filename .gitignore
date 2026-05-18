@@ -1,0 +1,2 @@
+echo "secret.txt" > .gitignore
+echo "*.exe" >> .gitignore
